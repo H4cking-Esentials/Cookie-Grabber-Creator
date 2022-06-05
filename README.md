@@ -1,5 +1,5 @@
 # cookie-grabbber
-Cookie Grabber(sorry i couldn't upload directly to github bc its 27MB):
+Cookie Grabber(Sorry I couldn't upload directly to github because its 27MB)
 
 Download:
 
