@@ -1,5 +1,5 @@
 # cookie-grabbber
-Cookie Grabber
+Cookie Grabber Download(sorry i couldn't upload directly to github bc its 27MB):
 
 This is a simple chrome cookie grabber. When you victim clicks on a link their cookies are sent to a webhook.
 
