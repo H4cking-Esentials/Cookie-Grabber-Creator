@@ -21,7 +21,7 @@ How to use
 
 Now it will return a link that you can copy paste and the victims info will be sent to that webhook.
 
-# info
+# disclaimer
 
 This is for educational purposes only
 I do not take an responsibility for actions that people use this for.
