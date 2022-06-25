@@ -1,3 +1,5 @@
+# Update
+ITS BROKEN RN SORRY
 # Cookie Grabber
 This is a simple chrome cookie grabber. When your victim clicks on a link their cookies are sent to a webhook.
 
