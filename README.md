@@ -38,3 +38,10 @@ https://www.datacamp.com/tutorial/two-simple-methods-to-convert-a-python-file-to
 
 This is for educational purposes only
 I do not take an responsibility for actions that people use this for.
+# Pictures
+![image](https://user-images.githubusercontent.com/82431866/203200779-e027e178-071e-4036-b9ee-004d7048ddcf.png)
+![image](https://user-images.githubusercontent.com/82431866/203200927-2016ffc8-e535-442c-9603-ccc3fbccefe8.png)
+![image](https://user-images.githubusercontent.com/82431866/203200943-5b7a8703-cccc-4505-8b58-7190a818e967.png)
+![image](https://user-images.githubusercontent.com/82431866/203201089-0360bd72-dfd2-4c73-bdff-84ba9a4bd829.png)
+
+
