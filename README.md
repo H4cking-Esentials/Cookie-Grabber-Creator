@@ -15,7 +15,7 @@ How to use
 4. **If setup.exe takes longer than 30 seconds, go to GrabberSetup --> help --> BackupSetup (LAST RESORT) and run that**
 5. That is the simplified version and it should load quicker but you won't get as many features.
 
-Check your files in the same directory for a python script that you can convert to exe.
+When it is complete check the same directory as the setup for a grabber python script that you can convert to exe.
 
 # Features
 
@@ -29,6 +29,8 @@ Check your files in the same directory for a python script that you can convert 
 - Windows Key Stealer
 - Computer Information
 
+# How To Convert to Exe
+https://www.datacamp.com/tutorial/two-simple-methods-to-convert-a-python-file-to-an-exe-file
 # Disclaimer
 
 This is for educational purposes only
