@@ -9,6 +9,7 @@ It **shouldn't** be flagged by your antivirus but if it is just disable it.
 
 
 # Instructions
+*View pictures at the bottom for help*
 
 How to use 
 1. Run setup.exe
