@@ -4,6 +4,7 @@ Fixed/Remade
 # Download
 
 It shouldn't be flagged by your antivirus but if it is just disable it.
+Download the zip file and uncompress it.
 
 # Instructions
 
