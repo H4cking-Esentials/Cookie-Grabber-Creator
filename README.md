@@ -40,6 +40,8 @@ https://www.datacamp.com/tutorial/two-simple-methods-to-convert-a-python-file-to
 This is for educational purposes only
 
 I do not take an responsibility for actions that people use this for.
+# Video
+https://www.youtube.com/watch?v=7chrQuSl0XA&t=8s
 # Pictures
 ![image](https://user-images.githubusercontent.com/82431866/203200779-e027e178-071e-4036-b9ee-004d7048ddcf.png)
 ![image](https://user-images.githubusercontent.com/82431866/203200927-2016ffc8-e535-442c-9603-ccc3fbccefe8.png)
