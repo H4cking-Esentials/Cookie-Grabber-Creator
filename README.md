@@ -48,6 +48,7 @@ https://www.youtube.com/watch?v=7chrQuSl0XA&t=8s
 ![image](https://user-images.githubusercontent.com/82431866/203200943-5b7a8703-cccc-4505-8b58-7190a818e967.png)
 ![image](https://user-images.githubusercontent.com/82431866/203202194-a203901a-9e09-495f-9c58-ae84db3b9cf4.png)
 ![image](https://user-images.githubusercontent.com/82431866/203201089-0360bd72-dfd2-4c73-bdff-84ba9a4bd829.png)
+# Grabber Log
 ![Screenshot 2022-11-23 105609](https://user-images.githubusercontent.com/82431866/203854365-84db757a-a68e-4709-a7af-7121ce8b3df3.png)
 
 
