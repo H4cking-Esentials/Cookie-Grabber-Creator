@@ -1,11 +1,3 @@
-# Update
-
-[11/30/2022]
-- Added Support for Windows 7 and 8. (Linux coming soon :eyes:)
-- Added V2 with more features + injection.
-- Fixed bug where setup would take forever to load.
-- Improved look of setup.
-
 # Download
 
 Download the zip file and uncompress it.
@@ -26,16 +18,6 @@ How to use
 6. Run steps 2-4 again.
 7. That is the simplified version and it should load quicker but you won't get as many features.
 
-# Instructions (V2)
-*View pictures at the bottom for help*
-
-How to use 
-1. Run main.exe
-2. Wait about 10 seconds while it loads all of the requirements in.
-3. Put in the name of your grabber.
-4. Put in the webhook from the channel you want to receive cookies from.
-5. When it is complete check the same directory as the setup for a grabber python script that you can convert to exe.
-
 # Features (V1)
 
 - History
@@ -47,39 +29,6 @@ How to use
 - Roblox Login Information
 - Windows Key Stealer
 - Computer Information
-
-# Features (V2)
-
-- Discord token info
-- Nitro
--  Badges
- - Billing
- - Email
- - Phone
- - HQ Guilds
--  HQ Friends
- - Gift codes
- - Browser data
-  -Cookies
- - Passwords
-  - History
--  Bookmarks
- - Autofill
- - Chrome, Edge, Brave, Opera GX, and many more...
-  - Discord injection
- - Send token, password, and email on login or when password is changed
- - System info
- - User
- - System
- - Disk
- - Network
- - WiFi
- - Screenshot
- - Anti-debug
- - Check if being run in a virustotal sandbox
- - Startup persistence
- - Place stub in appdata
- - Add to startup registry
 
 # How To Convert to Exe
 https://www.datacamp.com/tutorial/two-simple-methods-to-convert-a-python-file-to-an-exe-file
@@ -98,7 +47,3 @@ https://www.youtube.com/watch?v=7chrQuSl0XA&t=8s
 ![image](https://user-images.githubusercontent.com/82431866/203201089-0360bd72-dfd2-4c73-bdff-84ba9a4bd829.png)
 # Grabber Log (V1)
 ![Screenshot 2022-11-23 105609](https://user-images.githubusercontent.com/82431866/203854365-84db757a-a68e-4709-a7af-7121ce8b3df3.png)
-# Grabber Log (V2)
-![image](https://user-images.githubusercontent.com/82431866/204924707-178f6eef-7b59-44d1-80d2-f0d8ca319313.png)
-
-
