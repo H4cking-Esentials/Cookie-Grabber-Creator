@@ -6,7 +6,7 @@
 - Fixed bug where setup would take forever to load.
 - Improved look of setup.
 
-V1 Branch: [V1](https://github.com/OOOPil/Cookie-Grabber-Creator/tree/Archive)
+V1 Branch: [Grabber Setup V1](https://github.com/OOOPil/Cookie-Grabber-Creator/tree/Archive)
 # Download
 
 Download the zip file and uncompress it.
