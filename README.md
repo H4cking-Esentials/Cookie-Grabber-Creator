@@ -3,7 +3,8 @@
 [11/30/2022]
 - Added Support for Windows 7 and 8. (Linux coming soon :eyes:)
 - Added V2 with more features + injection.
-- Fixed Bug where setup would take forever to load.
+- Fixed bug where setup would take forever to load.
+- Improved look of setup.
 
 # Download
 
