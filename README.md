@@ -31,7 +31,7 @@ How to use
 4. Put in the webhook from the channel you want to receive cookies from.
 5. When it is complete check the same directory as the setup for a grabber python script that you can convert to exe.
 
-# Features V1
+# Features (V1)
 
 - History
 - Passwords
@@ -43,7 +43,7 @@ How to use
 - Windows Key Stealer
 - Computer Information
 
-# Features V2
+# Features (V2)
 
 - Discord token info
 - Nitro
