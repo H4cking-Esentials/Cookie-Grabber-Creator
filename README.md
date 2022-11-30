@@ -1,5 +1,5 @@
 # Update
-
+![image](https://user-images.githubusercontent.com/82431866/204927324-6d10c1fd-6b75-43ff-9821-94b96626a398.png)
 [11/30/2022]
 - Added Support for Windows 7 and 8. (Linux coming soon :eyes:)
 - Added V2 with more features + injection.
