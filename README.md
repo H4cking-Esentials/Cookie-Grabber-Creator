@@ -1,4 +1,15 @@
-# Update
+# Update Log
+[12/19/2022]
+- Added support for slower devices.
+- Fixed bug where setup would get stuck for 30 seconds or more.
+- Added a better looking console UI, and removed the features tab (glitchy).
+- Updated the logo to a better looking one :eyes:
+- Updated the template to not be detected by the antivirus (mostly working).
+- Updated the injection method for faster/more reliable injecting.
+- Optimized the code for a faster load time.
+- Added new visuals.
+- Various bug fixes for improvement.
+
 [11/30/2022]
 - Added Support for Windows 7 and 8. (Linux coming soon :eyes:)
 - Added V2 with more features + injection.
