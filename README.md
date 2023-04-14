@@ -1,5 +1,10 @@
 # Update Log
 [04/10/2023]
+- Decreased the maximum number of injections to 15 locations.
+- Rewrote the formula for handling dehashing passwords.
+- Minor Bug fixes.
+
+[04/10/2023]
 - Made loading speed up to 50% faster.
 - Fixed bug where discord would crash or computer would bluescreen (Due to overload with discord API).
 - Updated the logo to a better looking one :eyes:
