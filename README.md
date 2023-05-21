@@ -1,4 +1,10 @@
 # Update Log
+[05/20/2023]
+- Fixed discord api handler to block DDOS attacks.
+- Updated the file handling and api system.
+- Updated file management.
+- Updated injection model to include a dual bypass injection attack.
+
 [04/10/2023]
 - Decreased the maximum number of injections to 15 locations.
 - Rewrote the formula for handling dehashing passwords.
