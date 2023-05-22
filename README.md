@@ -1,4 +1,9 @@
 # Update Log
+[05/22/2023]
+- Implemented a real UI.
+- Added a much eaiser and straightforward creation system.
+- Fixed name not showing on the webhook.
+
 [05/20/2023]
 - Fixed discord api handler to block DDOS attacks.
 - Updated the file handling and api system.
