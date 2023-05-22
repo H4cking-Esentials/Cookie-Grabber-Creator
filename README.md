@@ -1,6 +1,7 @@
 # Update Log
 [05/22/2023]
 - Implemented a real UI.
+![image](https://github.com/YbicG/Cookie-Grabber-Creator/assets/82431866/1b3ef252-af0d-4d3c-a9d8-1ee872ebd187)
 - Added a much eaiser and straightforward creation system.
 - Fixed name not showing on the webhook.
 
