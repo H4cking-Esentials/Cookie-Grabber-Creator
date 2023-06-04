@@ -1,4 +1,8 @@
 # Update Log
+[06/03/2023]
+- Minor bug fixes.
+- Added webhook spoofing.
+
 [05/22/2023]
 - Implemented a real UI.
 ![image](https://github.com/YbicG/Cookie-Grabber-Creator/assets/82431866/1b3ef252-af0d-4d3c-a9d8-1ee872ebd187)
