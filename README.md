@@ -1,6 +1,6 @@
 # Update Log
 [06/28/2023]
-- Completely reworked the api to work with 10 new browser.
+- Completely reworked the api to work with 10 new browsers.
 - Reworked the building to decrease setup time drastically.
 - Added new features like attaching on startup, blocking user input, etc.
   
