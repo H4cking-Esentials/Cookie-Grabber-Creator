@@ -117,4 +117,3 @@ https://youtu.be/T4qOF5IT4mc
 # Old Pictures
 ![image](https://user-images.githubusercontent.com/82431866/203202194-a203901a-9e09-495f-9c58-ae84db3b9cf4.png)
 
-
