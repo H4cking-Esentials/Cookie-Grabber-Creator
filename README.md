@@ -1,4 +1,4 @@
-# Update Log
+# Update Logs
 [06/28/2023]
 - Completely reworked the api to work with 10 new browsers.
 - Reworked the building to decrease setup time drastically.
