@@ -83,7 +83,7 @@ How to use
   -Cookies
  - Passwords
   - History
--  Bookmarks
+-  Bookmark
  - Autofill
  - Chrome, Edge, Brave, Opera GX, and many more...
   - Discord injection
