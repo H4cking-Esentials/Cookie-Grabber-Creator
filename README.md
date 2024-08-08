@@ -1,4 +1,17 @@
-# Update Logs (Update coming soon)
+# Update Logs (Just Updated!)
+[08/08/2024]
+- Rewrote the grabber to use a faster runtime
+- Added obfuscation
+- Created a new injection method that attaches itself to 45+ different processes inside the victim's computer
+- Bypassed Windows Defender (updated method)
+- Fixed support for Chrome, Opera, and Firefox
+- Use multithreading to increase speed of the grabber
+- Remade the UI to include toggles to enable or disable certain features
+- VM Bypass block
+- Updated IP method to find it even with VPN on
+- Got setup script build time under 7 seconds w/ compilation and obfuscation
+- Various bug fixes
+  
 [06/28/2023]
 - Completely reworked the API to work with 10 new browsers.
 - Reworked the building to decrease setup time drastically.
