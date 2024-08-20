@@ -57,7 +57,7 @@
 [12/19/2022]
 - Added support for slower devices in the token grabber.
 - Fixed a bug where setup would get stuck for 30 seconds or more in the token grabber.
-- Added a better-looking console UI and removed the features tab (glitchy) in the token grabber.
+- Added a better-looking console UI and removed the features tab in the token grabber.
 - Updated the logo to a better-looking one :eyes: in the token grabber.
 - Updated the template to not be detected by the antivirus (mostly working) in the token grabber.
 - Updated the injection method for faster/more reliable injecting in the token grabber.
