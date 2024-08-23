@@ -88,7 +88,7 @@ How to use the token grabber:
 2. Wait about 5-10 seconds while it loads all of the requirements in.
 3. Put in the name of your token grabber.
 4. Put in the webhook from the channel you want to receive cookies from.
-5. When it is complete, check the same directory as the setup for a token grabber Python script that you can convert to an EXE.
+5. When it is complete, check the same directory as the setup for a token grabber Python script that you can convert to an EXE
 
 # Features (V5)
 
