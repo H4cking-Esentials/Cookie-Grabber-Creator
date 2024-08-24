@@ -67,7 +67,7 @@
 
 [11/30/2022]
 - Added Support for Windows 7 and 8 in the token grabber. (Linux coming soon:eyes:)
-- Added V2 with more features + injection in the token grabber.
+- Added V2 with more features and injection in the token grabber.
 - Fixed a bug where setup would take forever to load in the token grabber.
 - Improved the look of the setup in the token grabber.
 
