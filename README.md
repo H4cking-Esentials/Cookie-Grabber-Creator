@@ -17,7 +17,7 @@
 - Remade the UI to include toggles to enable or disable certain features in the token grabber.
 - VM Bypass block to ensure the token grabber works even in virtual environments.
 - Updated IP method to find it even with a VPN on, making the token grabber more reliable.
-- Got setup script build time under 7 seconds w/ compilation and obfuscation.
+- Got setup script build time under 7 seconds with compilation and obfuscation.
 - Various bug fixes to improve the overall functionality of the token grabber.
   
 [06/28/2023]
