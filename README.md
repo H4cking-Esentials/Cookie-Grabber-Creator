@@ -5,7 +5,7 @@
 - Enter your desired information and then just press the create button and wait.
 - After it creates, you can just compile the Python file into an EXE and send it to someone.
 
-# Update Logs (Just Updated!)
+# Update Logs (Just Updated)
 
 [08/08/2024]
 - Rewrote the token grabber to use a faster runtime.
