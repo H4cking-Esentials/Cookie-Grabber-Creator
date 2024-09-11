@@ -11,7 +11,7 @@
 - Rewrote the token grabber to use a faster runtime.
 - Added obfuscation for the token grabber.
 - Created a new injection method that attaches itself to 45+ different processes inside the victim's computer for more efficient and improved token grabbing.
-- Bypassed Windows Defender (updated method) to enhance the token grabber's stealth and increase performance.
+- Bypassed Windows Defender (improved method) to enhance the token grabber's stealth and increase performance.
 - Fixed support for Chrome, Opera, and Firefox in the token grabber.
 - Use multithreading to increase the speed of the token grabber.
 - Remade the UI to include toggles to enable or disable certain features in the token grabber.
